@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 龙漫</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Sep 2019 23:26:49 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 21:53:58 +0800</lastBuildDate>
     
 	<atom:link href="https://lewis123456.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>代码风格</title>
+      <link>https://lewis123456.github.io/posts/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC/</link>
+      <pubDate>Sat, 12 Oct 2019 21:53:58 +0800</pubDate>
+      
+      <guid>https://lewis123456.github.io/posts/%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC/</guid>
+      <description> 平安系风格(陈绿杰绿)  系统划分为业务层面和数据层面，例如controller-&amp;gt;service-&amp;gt;dao-&amp;gt;model中，model是数据层，定义model时只有数据，service和dao是业务层，只有接口。业务层通过接口实现解耦，实现多态。 遵循设计模式。 保证可靠性，依赖成熟有维护的框架和工具，方便甩锅。  微保风格(游绿炽绿鸿绿)  函数式编程。 高层策略和实现细节分离。 具有可扩展性。 遵循solid原则。 自主灵活，自研框架和工具类，查找问题困难。  我的风格  遵循solid原则，通过明确的设计模式来实现。 合理运用函数式编程思想，同时保证代码可读性。 接口解耦，依赖注入。 业务层和数据层明确划分，不互相包含。 编写代码生成工具类，提高编码效率。 遵循业界规范的API设计，例如google api design。 公司级系统采用内部框架和工具避免背锅，业余系统多尝试开源项目扩展视野。 大量阅读源代码，学习其中的设计思想，在项目中实践运用。大量阅读书籍，分析总结自我。 深入学习计算机基础知识。 保持技术热情，探索未知领域。 工作只能保证自己不饿死，要致富得靠勇气，运气。  </description>
+    </item>
     
     <item>
       <title>反思自我的表现</title>
