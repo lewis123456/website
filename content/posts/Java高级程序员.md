@@ -1,7 +1,7 @@
 ---
 title: "Java高级程序员"
 date: 2019-10-12T21:48:37+08:00
-draft: true
+draft: false 
 ---
 
 # 专业技能要求
